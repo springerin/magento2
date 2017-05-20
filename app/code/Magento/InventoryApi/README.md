@@ -1,0 +1,1 @@
+Module InventoryApi defines Source API interfaces for the Multi Node Inventory feature to enable manage stock in multiple locations so that merchants can properly reflect their physical inventory in Magento without having to use extensions or customization.
